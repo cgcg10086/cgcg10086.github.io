@@ -6,16 +6,16 @@
 
 main:
   - title: "About Us"
-    url: /about_us/
+    url: /about-us/
 
   - title: "Capabilities and Service"
-    url: /capabilities_and_service/    
+    url: /capabilities-and-service/    
 
   - title: "Contact Us"
-    url: /contact_us/    
+    url: /contact-us/    
 
   - title: "Test"
-    url: /Test/    
+    url: /test/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
