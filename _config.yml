@@ -12,7 +12,7 @@ title                    : "Dimensing Technology" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://cgcg10086.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cgcg10086.github.io/dimensing-technology # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cgcg10086/cgcg10086.github.io" # "academicpages/academicpages.github.io"
 
