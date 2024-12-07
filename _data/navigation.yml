@@ -14,8 +14,8 @@ main:
   - title: "Contact Us"
     url: /contact_us/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Test"
+    url: /Test/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
