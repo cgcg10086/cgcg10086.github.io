@@ -13,9 +13,6 @@ main:
 
   - title: "Contact Us"
     url: /contact-us/    
-
-  - title: "Test"
-    url: /test/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
