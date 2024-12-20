@@ -4,4 +4,5 @@ permalink: /contact-us/
 layout: single
 ---
 
-Email address: xujian769@hotmail.com 
+Email: xujian769@hotmail.com 
+Mail: 
