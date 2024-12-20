@@ -4,6 +4,6 @@ permalink: /contact-us/
 layout: single
 ---
 
-Email: xujian769@hotmail.com 
+Email: xujian769 AT hotmail DOT com 
 
 Mail: Caltech
